@@ -1,0 +1,12 @@
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\bin\Debug\ServerKlient.exe.config
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\bin\Debug\ServerKlient.exe
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\bin\Debug\ServerKlient.pdb
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.csproj.AssemblyReference.cache
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.Properties.Resources.resources
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.csproj.GenerateResource.cache
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.csproj.CoreCompileInputs.cache
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.exe
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.pdb
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.ClientForm.resources
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.ServerForm.resources
+C:\Users\vilgo_xoajat4\source\repos\ServerKlient\ServerKlient\obj\Debug\ServerKlient.Form1.resources
